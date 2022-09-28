@@ -1,1 +1,23 @@
+commit 80f464dfa7316eae2a33e4b45bcc3af3748183ac (HEAD -> master, origin/master)
+Author: olgacusnir <82089441+olgacusnir@users.noreply.github.com>
+Date:   Wed Sep 28 09:01:18 2022 +0300
+
+    Create FINAL.TXT
+
+commit 2993d0c01206ebc9873fd66815b4cac63869a949
+Merge: a0699c9 9b8963f
+Author: olgacusnir <olga.cusnir@isa.utm.md>
+Date:   Wed Sep 28 08:58:09 2022 +0300
+
+    adding files from branch2
+
+commit 9b8963f74dda02d1c50c1755cdab4752016c6e2a (origin/branch2, branch2)
+Author: olgacusnir <olga.cusnir@isa.utm.md>
+Date:   Wed Sep 28 08:55:23 2022 +0300
+
+    adding files from branch2
+
+commit a0699c994126f450a59f7830f4259355423b140a (origin/branch1, branch1)
+Author: olgacusnir <olga.cusnir@isa.utm.md>
+Date:   Wed Sep 28 08:51:48 2022 +0300
 
